@@ -1,2 +1,2 @@
-# moodle
+# Learn Moodle
 Moodle 
